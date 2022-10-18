@@ -1,5 +1,7 @@
 # Filmadaptionen in der Netzwerkanalyse – Eine Betrachtung anhand zweier Verfilmungen von »Alice’s Adventures in Wonderland«
 
+![](illustration.svg)
+
 Überblick über die Dateien/Ordner:
 
 - `film-2010.ipnb`. Jupyter Notebook für den automatisierten Download und Extraktion des Films von Tim Burton. 
