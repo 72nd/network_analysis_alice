@@ -1,6 +1,6 @@
 # Filmadaptionen in der Netzwerkanalyse – Eine Betrachtung anhand zweier Verfilmungen von »Alice’s Adventures in Wonderland«
 
-![](illustration.svg)
+![](image.svg)
 
 Überblick über die Dateien/Ordner:
 
