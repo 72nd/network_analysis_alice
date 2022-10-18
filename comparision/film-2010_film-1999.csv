@@ -1,0 +1,143 @@
+source,target,weight,weight_normalized,connected
+alice,bloodhound,1.0,1.0,False
+alice,dodo,10.0,17.8,True
+alice,dormouse,1.25,2.2,True
+alice,faith,1.0,1.0,False
+alice,fiona,1.0,1.0,False
+alice,hamish,1.0,1.0,False
+alice,imogene,1.0,1.0,False
+alice,jabberwocky,1.0,1.0,False
+alice,knave of hearts,4.0,7.1,True
+alice,lady ascot,1.0,1.0,False
+alice,lowell,1.0,1.0,False
+alice,mad hatter,1.8181818181818183,3.2,True
+alice,march hare,4.0,7.1,True
+alice,sister,1.0,1.0,False
+alice,mother,1.0,1.0,False
+alice,red queen,1.0,1.0,False
+alice,smoking caterpillar,1.0,1.0,False
+alice,talking flowers,1.0,1.0,False
+alice,tweedledee,2.5,4.5,True
+alice,tweedledum,2.8571428571428568,5.1,True
+alice,white queen,1.0,1.0,False
+alice,white rabbit,8.75,15.6,True
+alice,lord ascot,1.0,1.0,False
+alice,cheshire cat,5.0,8.9,True
+bloodhound,knave of hearts,1.0,1.0,False
+bloodhound,white queen,1.0,1.0,False
+dodo,talking flowers,1.0,1.0,False
+dodo,tweedledee,1.0,1.0,False
+dodo,tweedledum,1.0,1.0,False
+dodo,dormouse,1.0,1.0,False
+dodo,white rabbit,1.0,1.0,False
+dormouse,a knight,1.0,1.0,False
+dormouse,big man,1.0,1.0,False
+dormouse,big woman,1.0,1.0,False
+dormouse,knave of hearts,1.0,1.0,False
+dormouse,lady ears,1.0,1.0,False
+dormouse,mad hatter,1.4285714285714284,2.5,True
+dormouse,march hare,5.0,8.9,True
+dormouse,red queen,1.0,1.0,False
+dormouse,smoking caterpillar,1.0,1.0,False
+dormouse,talking flowers,1.0,1.0,False
+dormouse,tweedledee,1.0,1.0,False
+dormouse,tweedledum,1.0,1.0,False
+dormouse,various animals,1.0,1.0,False
+dormouse,white rabbit,1.0,1.0,False
+dormouse,cheshire cat,1.0,1.0,False
+faith,fiona,1.0,1.0,False
+faith,sister,1.0,1.0,False
+faith,hamish,1.0,1.0,False
+faith,lady ascot,1.0,1.0,False
+fiona,sister,1.0,1.0,False
+fiona,hamish,1.0,1.0,False
+fiona,lady ascot,1.0,1.0,False
+fiona,lord ascot,1.0,1.0,False
+fiona,mother,1.0,1.0,False
+hamish,imogene,1.0,1.0,False
+hamish,lowell,1.0,1.0,False
+hamish,sister,1.0,1.0,False
+hamish,lady ascot,1.0,1.0,False
+hamish,lord ascot,1.0,1.0,False
+hamish,mother,1.0,1.0,False
+imogene,lowell,1.0,1.0,False
+imogene,lady ascot,1.0,1.0,False
+jabberwocky,mad hatter,1.0,1.0,False
+jabberwocky,march hare,1.0,1.0,False
+jabberwocky,red queen,1.0,1.0,False
+jabberwocky,white queen,1.0,1.0,False
+jabberwocky,white rabbit,1.0,1.0,False
+knave of hearts,a knight,1.0,1.0,False
+knave of hearts,march hare,10.0,17.8,True
+knave of hearts,mad hatter,5.0,8.9,True
+knave of hearts,red queen,1.0,1.0,False
+knave of hearts,tweedledee,1.0,1.0,False
+knave of hearts,tweedledum,1.0,1.0,False
+knave of hearts,white queen,1.0,1.0,False
+knave of hearts,cheshire cat,1.0,1.0,False
+lady ascot,lowell,1.0,1.0,False
+lady ascot,sister,1.0,1.0,False
+lady ascot,lord ascot,1.0,1.0,False
+lady ascot,mother,1.0,1.0,False
+mad hatter,big man,1.0,1.0,False
+mad hatter,big woman,1.0,1.0,False
+mad hatter,a knight,1.0,1.0,False
+mad hatter,lady ears,1.0,1.0,False
+mad hatter,various animals,1.0,1.0,False
+mad hatter,white queen,1.0,1.0,False
+mad hatter,march hare,5.0,8.9,True
+mad hatter,red queen,1.0,1.0,False
+mad hatter,tweedledee,1.0,1.0,False
+mad hatter,tweedledum,1.0,1.0,False
+mad hatter,white rabbit,2.5,4.5,True
+mad hatter,cheshire cat,1.0,1.0,False
+march hare,white queen,1.0,1.0,False
+march hare,red queen,1.0,1.0,False
+march hare,white rabbit,10.0,17.8,True
+march hare,cheshire cat,1.0,1.0,False
+mother,lord ascot,1.0,1.0,False
+red queen,big man,1.0,1.0,False
+red queen,big woman,1.0,1.0,False
+red queen,lady ears,1.0,1.0,False
+red queen,various animals,1.0,1.0,False
+red queen,white queen,1.0,1.0,False
+red queen,tweedledee,1.0,1.0,False
+red queen,tweedledum,1.0,1.0,False
+red queen,white rabbit,1.0,1.0,False
+red queen,cheshire cat,1.0,1.0,False
+smoking caterpillar,talking flowers,1.0,1.0,False
+smoking caterpillar,tweedledee,1.0,1.0,False
+smoking caterpillar,tweedledum,1.0,1.0,False
+smoking caterpillar,white rabbit,1.0,1.0,False
+talking flowers,tweedledee,1.0,1.0,False
+talking flowers,tweedledum,1.0,1.0,False
+talking flowers,white rabbit,1.0,1.0,False
+tweedledee,big man,1.0,1.0,False
+tweedledee,big woman,1.0,1.0,False
+tweedledee,lady ears,1.0,1.0,False
+tweedledee,tweedledum,2.5,4.5,True
+tweedledee,various animals,1.0,1.0,False
+tweedledee,white queen,1.0,1.0,False
+tweedledee,white rabbit,1.0,1.0,False
+tweedledee,cheshire cat,1.0,1.0,False
+tweedledum,big man,1.0,1.0,False
+tweedledum,big woman,1.0,1.0,False
+tweedledum,lady ears,1.0,1.0,False
+tweedledum,various animals,1.0,1.0,False
+tweedledum,white queen,1.0,1.0,False
+tweedledum,white rabbit,1.0,1.0,False
+tweedledum,cheshire cat,1.0,1.0,False
+white queen,white rabbit,1.0,1.0,False
+white queen,cheshire cat,1.0,1.0,False
+white rabbit,big man,1.0,1.0,False
+white rabbit,big woman,1.0,1.0,False
+white rabbit,lady ears,1.0,1.0,False
+white rabbit,various animals,1.0,1.0,False
+white rabbit,cheshire cat,10.0,17.8,True
+lord ascot,a colleague,1.0,1.0,False
+big man,big woman,1.0,1.0,False
+big man,lady ears,1.0,1.0,False
+big man,various animals,1.0,1.0,False
+big woman,lady ears,1.0,1.0,False
+big woman,various animals,1.0,1.0,False
+lady ears,various animals,1.0,1.0,False

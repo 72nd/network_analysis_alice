@@ -1,0 +1,163 @@
+source,target,weight,weight_normalized,connected
+alice,alice´s father,1.0,1.0,False
+alice,alice´s mother,1.0,1.0,False
+alice,bill the lizard,1.0,1.0,False
+alice,black knight,1.0,1.0,False
+alice,cheshire cat,20.0,11.2,True
+alice,dodo,10.0,5.6,True
+alice,dormouse,80.0,44.9,True
+alice,duchess,1.0,1.0,False
+alice,duck,1.0,1.0,False
+alice,eaglet,1.0,1.0,False
+alice,executor,1.0,1.0,False
+alice,frog the footman,1.0,1.0,False
+alice,governess,1.0,1.0,False
+alice,gryphon,1.0,1.0,False
+alice,king of hearts,1.0,1.0,False
+alice,knave of hearts,25.0,14.0,True
+alice,lory,1.0,1.0,False
+alice,mad hatter,55.0,30.9,True
+alice,march hare,25.0,14.0,True
+alice,mock turtle,1.0,1.0,False
+alice,mouse,1.0,1.0,False
+alice,nanny,1.0,1.0,False
+alice,pat,1.0,1.0,False
+alice,queen of hearts,1.0,1.0,False
+alice,rose painting card five,1.0,1.0,False
+alice,rose painting card seven,1.0,1.0,False
+alice,rose painting card two,1.0,1.0,False
+alice,smoking caterpilar,1.0,1.0,False
+alice,tiger lily,1.0,1.0,False
+alice,tweedledee,40.0,22.4,True
+alice,tweedledum,35.0,19.6,True
+alice,white rabbit,11.428571428571427,6.4,True
+alice,white knight,1.0,1.0,False
+alice,daisies (chorus),1.0,1.0,False
+alice,giant puppy,1.0,1.0,False
+alice,jury of guinea pigs (chorus),1.0,1.0,False
+alice,pig baby,1.0,1.0,False
+alice,red bishop (attorney one),1.0,1.0,False
+alice,roses (chorus),1.0,1.0,False
+alice,white tour (attorney two),1.0,1.0,False
+alice,duchess´s cook,1.0,1.0,False
+alice´s father,alice´s mother,1.0,1.0,False
+alice´s father,governess,1.0,1.0,False
+alice´s mother,governess,1.0,1.0,False
+alice´s mother,nanny,1.0,1.0,False
+bill the lizard,pat,1.0,1.0,False
+bill the lizard,white rabbit,1.0,1.0,False
+black knight,white knight,1.0,1.0,False
+cheshire cat,duchess,1.0,1.0,False
+cheshire cat,executor,1.0,1.0,False
+cheshire cat,king of hearts,1.0,1.0,False
+cheshire cat,queen of hearts,1.0,1.0,False
+cheshire cat,white rabbit,10.0,5.6,True
+cheshire cat,pig baby,1.0,1.0,False
+dodo,duck,1.0,1.0,False
+dodo,eaglet,1.0,1.0,False
+dodo,lory,1.0,1.0,False
+dodo,mouse,1.0,1.0,False
+dormouse,mad hatter,70.0,39.3,True
+dormouse,march hare,20.0,11.2,True
+duchess,executor,1.0,1.0,False
+duchess,king of hearts,1.0,1.0,False
+duchess,knave of hearts,1.0,1.0,False
+duchess,mad hatter,1.0,1.0,False
+duchess,march hare,1.0,1.0,False
+duchess,queen of hearts,1.0,1.0,False
+duchess,white rabbit,1.0,1.0,False
+duchess,jury of guinea pigs (chorus),1.0,1.0,False
+duchess,pig baby,1.0,1.0,False
+duchess,red bishop (attorney one),1.0,1.0,False
+duchess,white tour (attorney two),1.0,1.0,False
+duchess,duchess´s cook,1.0,1.0,False
+duck,eaglet,1.0,1.0,False
+duck,lory,1.0,1.0,False
+duck,mouse,1.0,1.0,False
+eaglet,lory,1.0,1.0,False
+eaglet,mouse,1.0,1.0,False
+executor,king of hearts,1.0,1.0,False
+executor,queen of hearts,1.0,1.0,False
+executor,white rabbit,1.0,1.0,False
+frog the footman,fish the footman,1.0,1.0,False
+governess,nanny,1.0,1.0,False
+gryphon,mock turtle,1.0,1.0,False
+king of hearts,knave of hearts,1.0,1.0,False
+king of hearts,mad hatter,1.0,1.0,False
+king of hearts,march hare,1.0,1.0,False
+king of hearts,queen of hearts,1.0,1.0,False
+king of hearts,rose painting card five,1.0,1.0,False
+king of hearts,rose painting card seven,1.0,1.0,False
+king of hearts,rose painting card two,1.0,1.0,False
+king of hearts,white rabbit,1.0,1.0,False
+king of hearts,jury of guinea pigs (chorus),1.0,1.0,False
+king of hearts,red bishop (attorney one),1.0,1.0,False
+king of hearts,white tour (attorney two),1.0,1.0,False
+king of hearts,duchess´s cook,1.0,1.0,False
+knave of hearts,mad hatter,20.0,11.2,True
+knave of hearts,march hare,10.0,5.6,True
+knave of hearts,queen of hearts,1.0,1.0,False
+knave of hearts,rose painting card five,1.0,1.0,False
+knave of hearts,rose painting card seven,1.0,1.0,False
+knave of hearts,rose painting card two,1.0,1.0,False
+knave of hearts,white rabbit,1.0,1.0,False
+knave of hearts,jury of guinea pigs (chorus),1.0,1.0,False
+knave of hearts,red bishop (attorney one),1.0,1.0,False
+knave of hearts,white tour (attorney two),1.0,1.0,False
+knave of hearts,duchess´s cook,1.0,1.0,False
+lory,mouse,1.0,1.0,False
+mad hatter,march hare,20.0,11.2,True
+mad hatter,queen of hearts,1.0,1.0,False
+mad hatter,white rabbit,40.0,22.4,True
+mad hatter,jury of guinea pigs (chorus),1.0,1.0,False
+mad hatter,red bishop (attorney one),1.0,1.0,False
+mad hatter,white tour (attorney two),1.0,1.0,False
+mad hatter,duchess´s cook,1.0,1.0,False
+march hare,queen of hearts,1.0,1.0,False
+march hare,white rabbit,10.0,5.6,True
+march hare,jury of guinea pigs (chorus),1.0,1.0,False
+march hare,red bishop (attorney one),1.0,1.0,False
+march hare,white tour (attorney two),1.0,1.0,False
+march hare,duchess´s cook,1.0,1.0,False
+pat,white rabbit,1.0,1.0,False
+queen of hearts,rose painting card five,1.0,1.0,False
+queen of hearts,rose painting card seven,1.0,1.0,False
+queen of hearts,rose painting card two,1.0,1.0,False
+queen of hearts,white rabbit,1.0,1.0,False
+queen of hearts,jury of guinea pigs (chorus),1.0,1.0,False
+queen of hearts,red bishop (attorney one),1.0,1.0,False
+queen of hearts,white tour (attorney two),1.0,1.0,False
+queen of hearts,duchess´s cook,1.0,1.0,False
+rose painting card five,rose painting card seven,1.0,1.0,False
+rose painting card five,rose painting card two,1.0,1.0,False
+rose painting card five,white rabbit,1.0,1.0,False
+rose painting card seven,rose painting card two,1.0,1.0,False
+rose painting card seven,white rabbit,1.0,1.0,False
+rose painting card two,white rabbit,1.0,1.0,False
+tiger lily,daisies (chorus),1.0,1.0,False
+tiger lily,roses (chorus),1.0,1.0,False
+tweedledee,moon (tweedledee),1.0,1.0,False
+tweedledee,tweedledum,40.0,22.4,True
+tweedledum,sun (tweedledum),1.0,1.0,False
+white rabbit,jury of guinea pigs (chorus),1.0,1.0,False
+white rabbit,red bishop (attorney one),1.0,1.0,False
+white rabbit,white tour (attorney two),1.0,1.0,False
+white rabbit,duchess´s cook,1.0,1.0,False
+daisies (chorus),roses (chorus),1.0,1.0,False
+jury of guinea pigs (chorus),red bishop (attorney one),1.0,1.0,False
+jury of guinea pigs (chorus),white tour (attorney two),1.0,1.0,False
+jury of guinea pigs (chorus),duchess´s cook,1.0,1.0,False
+pig baby,duchess´s cook,1.0,1.0,False
+red bishop (attorney one),white tour (attorney two),1.0,1.0,False
+red bishop (attorney one),duchess´s cook,1.0,1.0,False
+white tour (attorney two),duchess´s cook,1.0,1.0,False
+moon (tweedledee),carpenter,1.0,1.0,False
+moon (tweedledee),sun (tweedledum),1.0,1.0,False
+moon (tweedledee),warlus,1.0,1.0,False
+moon (tweedledee),oysters,1.0,1.0,False
+sun (tweedledum),carpenter,1.0,1.0,False
+sun (tweedledum),warlus,1.0,1.0,False
+sun (tweedledum),oysters,1.0,1.0,False
+carpenter,warlus,1.0,1.0,False
+carpenter,oysters,1.0,1.0,False
+warlus,oysters,1.0,1.0,False

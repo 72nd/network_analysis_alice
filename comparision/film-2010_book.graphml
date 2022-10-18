@@ -1,0 +1,746 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="connection" attr.type="boolean"/>
+<key id="d1" for="edge" attr.name="weight_normalized" attr.type="double"/>
+<key id="d0" for="edge" attr.name="weight" attr.type="double"/>
+<graph edgedefault="undirected"><node id="alice"/>
+<node id="bloodhound"/>
+<node id="dodo"/>
+<node id="dormouse"/>
+<node id="faith"/>
+<node id="fiona"/>
+<node id="hamish"/>
+<node id="imogene"/>
+<node id="jabberwocky"/>
+<node id="knave of hearts"/>
+<node id="lady ascot"/>
+<node id="lowell"/>
+<node id="mad hatter"/>
+<node id="march hare"/>
+<node id="sister"/>
+<node id="mother"/>
+<node id="red queen"/>
+<node id="smoking caterpillar"/>
+<node id="talking flowers"/>
+<node id="tweedledee"/>
+<node id="tweedledum"/>
+<node id="white queen"/>
+<node id="white rabbit"/>
+<node id="lord ascot"/>
+<node id="cheshire cat"/>
+<node id="a knight"/>
+<node id="big man"/>
+<node id="big woman"/>
+<node id="lady ears"/>
+<node id="various animals"/>
+<node id="a colleague"/>
+<edge source="alice" target="bloodhound">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="alice" target="dodo">
+  <data key="d0">10.0</data>
+  <data key="d1">19.7</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="alice" target="dormouse">
+  <data key="d0">2.5</data>
+  <data key="d1">4.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="alice" target="faith">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="alice" target="fiona">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="alice" target="hamish">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="alice" target="imogene">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="alice" target="jabberwocky">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="alice" target="knave of hearts">
+  <data key="d0">2.0</data>
+  <data key="d1">3.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="alice" target="lady ascot">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="alice" target="lowell">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="alice" target="mad hatter">
+  <data key="d0">1.8181818181818183</data>
+  <data key="d1">3.6</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="alice" target="march hare">
+  <data key="d0">4.0</data>
+  <data key="d1">7.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="alice" target="sister">
+  <data key="d0">10.0</data>
+  <data key="d1">19.7</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="alice" target="mother">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="alice" target="red queen">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="alice" target="smoking caterpillar">
+  <data key="d0">2.0</data>
+  <data key="d1">3.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="alice" target="talking flowers">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="alice" target="tweedledee">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="alice" target="tweedledum">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="alice" target="white queen">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="alice" target="white rabbit">
+  <data key="d0">7.5</data>
+  <data key="d1">14.7</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="alice" target="lord ascot">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="alice" target="cheshire cat">
+  <data key="d0">2.5</data>
+  <data key="d1">4.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="bloodhound" target="knave of hearts">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="bloodhound" target="white queen">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="dodo" target="talking flowers">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="dodo" target="tweedledee">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="dodo" target="tweedledum">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="dodo" target="dormouse">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="dodo" target="white rabbit">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="dormouse" target="a knight">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="dormouse" target="big man">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="dormouse" target="big woman">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="dormouse" target="knave of hearts">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="dormouse" target="lady ears">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="dormouse" target="mad hatter">
+  <data key="d0">2.8571428571428568</data>
+  <data key="d1">5.6</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="dormouse" target="march hare">
+  <data key="d0">10.0</data>
+  <data key="d1">19.7</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="dormouse" target="red queen">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="dormouse" target="smoking caterpillar">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="dormouse" target="talking flowers">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="dormouse" target="tweedledee">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="dormouse" target="tweedledum">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="dormouse" target="various animals">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="dormouse" target="white rabbit">
+  <data key="d0">2.5</data>
+  <data key="d1">4.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="dormouse" target="cheshire cat">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="faith" target="fiona">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="faith" target="sister">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="faith" target="hamish">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="faith" target="lady ascot">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="fiona" target="sister">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="fiona" target="hamish">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="fiona" target="lady ascot">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="fiona" target="lord ascot">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="fiona" target="mother">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="hamish" target="imogene">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="hamish" target="lowell">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="hamish" target="sister">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="hamish" target="lady ascot">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="hamish" target="lord ascot">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="hamish" target="mother">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="imogene" target="lowell">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="imogene" target="lady ascot">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="jabberwocky" target="mad hatter">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="jabberwocky" target="march hare">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="jabberwocky" target="red queen">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="jabberwocky" target="white queen">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="jabberwocky" target="white rabbit">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="knave of hearts" target="a knight">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="knave of hearts" target="march hare">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="knave of hearts" target="mad hatter">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="knave of hearts" target="red queen">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="knave of hearts" target="tweedledee">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="knave of hearts" target="tweedledum">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="knave of hearts" target="white queen">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="knave of hearts" target="cheshire cat">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="lady ascot" target="lowell">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="lady ascot" target="sister">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="lady ascot" target="lord ascot">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="lady ascot" target="mother">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="mad hatter" target="big man">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="mad hatter" target="big woman">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="mad hatter" target="a knight">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="mad hatter" target="lady ears">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="mad hatter" target="various animals">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="mad hatter" target="white queen">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="mad hatter" target="march hare">
+  <data key="d0">5.0</data>
+  <data key="d1">9.8</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="mad hatter" target="red queen">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="mad hatter" target="tweedledee">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="mad hatter" target="tweedledum">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="mad hatter" target="white rabbit">
+  <data key="d0">2.5</data>
+  <data key="d1">4.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="mad hatter" target="cheshire cat">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="march hare" target="white queen">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="march hare" target="red queen">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="march hare" target="white rabbit">
+  <data key="d0">10.0</data>
+  <data key="d1">19.7</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="march hare" target="cheshire cat">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="mother" target="lord ascot">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="red queen" target="big man">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="red queen" target="big woman">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="red queen" target="lady ears">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="red queen" target="various animals">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="red queen" target="white queen">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="red queen" target="tweedledee">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="red queen" target="tweedledum">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="red queen" target="white rabbit">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="red queen" target="cheshire cat">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="smoking caterpillar" target="talking flowers">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="smoking caterpillar" target="tweedledee">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="smoking caterpillar" target="tweedledum">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="smoking caterpillar" target="white rabbit">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="talking flowers" target="tweedledee">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="talking flowers" target="tweedledum">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="talking flowers" target="white rabbit">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="tweedledee" target="big man">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="tweedledee" target="big woman">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="tweedledee" target="lady ears">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="tweedledee" target="tweedledum">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="tweedledee" target="various animals">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="tweedledee" target="white queen">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="tweedledee" target="white rabbit">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="tweedledee" target="cheshire cat">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="tweedledum" target="big man">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="tweedledum" target="big woman">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="tweedledum" target="lady ears">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="tweedledum" target="various animals">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="tweedledum" target="white queen">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="tweedledum" target="white rabbit">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="tweedledum" target="cheshire cat">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="white queen" target="white rabbit">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="white queen" target="cheshire cat">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="white rabbit" target="big man">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="white rabbit" target="big woman">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="white rabbit" target="lady ears">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="white rabbit" target="various animals">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="white rabbit" target="cheshire cat">
+  <data key="d0">10.0</data>
+  <data key="d1">19.7</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="lord ascot" target="a colleague">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="big man" target="big woman">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="big man" target="lady ears">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="big man" target="various animals">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="big woman" target="lady ears">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="big woman" target="various animals">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="lady ears" target="various animals">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+</graph></graphml>

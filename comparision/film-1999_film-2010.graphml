@@ -1,0 +1,863 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="connection" attr.type="boolean"/>
+<key id="d1" for="edge" attr.name="weight_normalized" attr.type="double"/>
+<key id="d0" for="edge" attr.name="weight" attr.type="double"/>
+<graph edgedefault="undirected"><node id="alice"/>
+<node id="alice´s father"/>
+<node id="alice´s mother"/>
+<node id="bill the lizard"/>
+<node id="black knight"/>
+<node id="cheshire cat"/>
+<node id="dodo"/>
+<node id="dormouse"/>
+<node id="duchess"/>
+<node id="duck"/>
+<node id="eaglet"/>
+<node id="executor"/>
+<node id="frog the footman"/>
+<node id="governess"/>
+<node id="gryphon"/>
+<node id="king of hearts"/>
+<node id="knave of hearts"/>
+<node id="lory"/>
+<node id="mad hatter"/>
+<node id="march hare"/>
+<node id="mock turtle"/>
+<node id="mouse"/>
+<node id="nanny"/>
+<node id="pat"/>
+<node id="queen of hearts"/>
+<node id="rose painting card five"/>
+<node id="rose painting card seven"/>
+<node id="rose painting card two"/>
+<node id="smoking caterpilar"/>
+<node id="tiger lily"/>
+<node id="tweedledee"/>
+<node id="tweedledum"/>
+<node id="white rabbit"/>
+<node id="white knight"/>
+<node id="daisies (chorus)"/>
+<node id="giant puppy"/>
+<node id="jury of guinea pigs (chorus)"/>
+<node id="pig baby"/>
+<node id="red bishop (attorney one)"/>
+<node id="roses (chorus)"/>
+<node id="white tour (attorney two)"/>
+<node id="duchess´s cook"/>
+<node id="fish the footman"/>
+<node id="moon (tweedledee)"/>
+<node id="sun (tweedledum)"/>
+<node id="carpenter"/>
+<node id="warlus"/>
+<node id="oysters"/>
+<edge source="alice" target="alice´s father">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="alice" target="alice´s mother">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="alice" target="bill the lizard">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="alice" target="black knight">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="alice" target="cheshire cat">
+  <data key="d0">20.0</data>
+  <data key="d1">11.2</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="alice" target="dodo">
+  <data key="d0">10.0</data>
+  <data key="d1">5.6</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="alice" target="dormouse">
+  <data key="d0">80.0</data>
+  <data key="d1">44.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="alice" target="duchess">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="alice" target="duck">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="alice" target="eaglet">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="alice" target="executor">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="alice" target="frog the footman">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="alice" target="governess">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="alice" target="gryphon">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="alice" target="king of hearts">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="alice" target="knave of hearts">
+  <data key="d0">25.0</data>
+  <data key="d1">14.0</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="alice" target="lory">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="alice" target="mad hatter">
+  <data key="d0">55.0</data>
+  <data key="d1">30.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="alice" target="march hare">
+  <data key="d0">25.0</data>
+  <data key="d1">14.0</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="alice" target="mock turtle">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="alice" target="mouse">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="alice" target="nanny">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="alice" target="pat">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="alice" target="queen of hearts">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="alice" target="rose painting card five">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="alice" target="rose painting card seven">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="alice" target="rose painting card two">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="alice" target="smoking caterpilar">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="alice" target="tiger lily">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="alice" target="tweedledee">
+  <data key="d0">40.0</data>
+  <data key="d1">22.4</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="alice" target="tweedledum">
+  <data key="d0">35.0</data>
+  <data key="d1">19.6</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="alice" target="white rabbit">
+  <data key="d0">11.428571428571427</data>
+  <data key="d1">6.4</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="alice" target="white knight">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="alice" target="daisies (chorus)">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="alice" target="giant puppy">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="alice" target="jury of guinea pigs (chorus)">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="alice" target="pig baby">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="alice" target="red bishop (attorney one)">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="alice" target="roses (chorus)">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="alice" target="white tour (attorney two)">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="alice" target="duchess´s cook">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="alice´s father" target="alice´s mother">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="alice´s father" target="governess">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="alice´s mother" target="governess">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="alice´s mother" target="nanny">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="bill the lizard" target="pat">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="bill the lizard" target="white rabbit">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="black knight" target="white knight">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="cheshire cat" target="duchess">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="cheshire cat" target="executor">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="cheshire cat" target="king of hearts">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="cheshire cat" target="queen of hearts">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="cheshire cat" target="white rabbit">
+  <data key="d0">10.0</data>
+  <data key="d1">5.6</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="cheshire cat" target="pig baby">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="dodo" target="duck">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="dodo" target="eaglet">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="dodo" target="lory">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="dodo" target="mouse">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="dormouse" target="mad hatter">
+  <data key="d0">70.0</data>
+  <data key="d1">39.3</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="dormouse" target="march hare">
+  <data key="d0">20.0</data>
+  <data key="d1">11.2</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="duchess" target="executor">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="duchess" target="king of hearts">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="duchess" target="knave of hearts">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="duchess" target="mad hatter">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="duchess" target="march hare">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="duchess" target="queen of hearts">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="duchess" target="white rabbit">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="duchess" target="jury of guinea pigs (chorus)">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="duchess" target="pig baby">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="duchess" target="red bishop (attorney one)">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="duchess" target="white tour (attorney two)">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="duchess" target="duchess´s cook">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="duck" target="eaglet">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="duck" target="lory">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="duck" target="mouse">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="eaglet" target="lory">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="eaglet" target="mouse">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="executor" target="king of hearts">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="executor" target="queen of hearts">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="executor" target="white rabbit">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="frog the footman" target="fish the footman">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="governess" target="nanny">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="gryphon" target="mock turtle">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="king of hearts" target="knave of hearts">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="king of hearts" target="mad hatter">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="king of hearts" target="march hare">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="king of hearts" target="queen of hearts">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="king of hearts" target="rose painting card five">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="king of hearts" target="rose painting card seven">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="king of hearts" target="rose painting card two">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="king of hearts" target="white rabbit">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="king of hearts" target="jury of guinea pigs (chorus)">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="king of hearts" target="red bishop (attorney one)">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="king of hearts" target="white tour (attorney two)">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="king of hearts" target="duchess´s cook">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="knave of hearts" target="mad hatter">
+  <data key="d0">20.0</data>
+  <data key="d1">11.2</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="knave of hearts" target="march hare">
+  <data key="d0">10.0</data>
+  <data key="d1">5.6</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="knave of hearts" target="queen of hearts">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="knave of hearts" target="rose painting card five">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="knave of hearts" target="rose painting card seven">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="knave of hearts" target="rose painting card two">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="knave of hearts" target="white rabbit">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="knave of hearts" target="jury of guinea pigs (chorus)">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="knave of hearts" target="red bishop (attorney one)">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="knave of hearts" target="white tour (attorney two)">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="knave of hearts" target="duchess´s cook">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="lory" target="mouse">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="mad hatter" target="march hare">
+  <data key="d0">20.0</data>
+  <data key="d1">11.2</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="mad hatter" target="queen of hearts">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="mad hatter" target="white rabbit">
+  <data key="d0">40.0</data>
+  <data key="d1">22.4</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="mad hatter" target="jury of guinea pigs (chorus)">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="mad hatter" target="red bishop (attorney one)">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="mad hatter" target="white tour (attorney two)">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="mad hatter" target="duchess´s cook">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="march hare" target="queen of hearts">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="march hare" target="white rabbit">
+  <data key="d0">10.0</data>
+  <data key="d1">5.6</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="march hare" target="jury of guinea pigs (chorus)">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="march hare" target="red bishop (attorney one)">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="march hare" target="white tour (attorney two)">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="march hare" target="duchess´s cook">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="pat" target="white rabbit">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="queen of hearts" target="rose painting card five">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="queen of hearts" target="rose painting card seven">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="queen of hearts" target="rose painting card two">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="queen of hearts" target="white rabbit">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="queen of hearts" target="jury of guinea pigs (chorus)">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="queen of hearts" target="red bishop (attorney one)">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="queen of hearts" target="white tour (attorney two)">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="queen of hearts" target="duchess´s cook">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="rose painting card five" target="rose painting card seven">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="rose painting card five" target="rose painting card two">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="rose painting card five" target="white rabbit">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="rose painting card seven" target="rose painting card two">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="rose painting card seven" target="white rabbit">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="rose painting card two" target="white rabbit">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="tiger lily" target="daisies (chorus)">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="tiger lily" target="roses (chorus)">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="tweedledee" target="moon (tweedledee)">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="tweedledee" target="tweedledum">
+  <data key="d0">40.0</data>
+  <data key="d1">22.4</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="tweedledum" target="sun (tweedledum)">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="white rabbit" target="jury of guinea pigs (chorus)">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="white rabbit" target="red bishop (attorney one)">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="white rabbit" target="white tour (attorney two)">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="white rabbit" target="duchess´s cook">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="daisies (chorus)" target="roses (chorus)">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="jury of guinea pigs (chorus)" target="red bishop (attorney one)">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="jury of guinea pigs (chorus)" target="white tour (attorney two)">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="jury of guinea pigs (chorus)" target="duchess´s cook">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="pig baby" target="duchess´s cook">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="red bishop (attorney one)" target="white tour (attorney two)">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="red bishop (attorney one)" target="duchess´s cook">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="white tour (attorney two)" target="duchess´s cook">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="moon (tweedledee)" target="carpenter">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="moon (tweedledee)" target="sun (tweedledum)">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="moon (tweedledee)" target="warlus">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="moon (tweedledee)" target="oysters">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="sun (tweedledum)" target="carpenter">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="sun (tweedledum)" target="warlus">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="sun (tweedledum)" target="oysters">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="carpenter" target="warlus">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="carpenter" target="oysters">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="warlus" target="oysters">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+</graph></graphml>

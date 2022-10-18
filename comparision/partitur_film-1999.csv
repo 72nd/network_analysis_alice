@@ -1,0 +1,131 @@
+source,target,weight,weight_normalized,connected
+alice,pig baby,10.0,12.6,True
+alice,bill the lizard,10.0,12.6,True
+alice,canary,1.0,1.0,False
+alice,cheshire cat,10.0,12.6,True
+alice,dodo,5.0,6.3,True
+alice,dormouse,3.333333333333333,4.2,True
+alice,duchess,20.0,25.3,True
+alice,duchess's cook,1.0,1.0,False
+alice,duck,5.0,6.3,True
+alice,eaglet,5.0,6.3,True
+alice,executor,10.0,12.6,True
+alice,fish the footman,1.0,1.0,False
+alice,frog the footman,10.0,12.6,True
+alice,giant puppy,10.0,12.6,True
+alice,gryphon,10.0,12.6,True
+alice,hatter,1.0,1.0,False
+alice,jurors,1.0,1.0,False
+alice,king of hearts,10.0,12.6,True
+alice,knave of hearts,20.0,25.3,True
+alice,lory,5.0,6.3,True
+alice,magpie,1.0,1.0,False
+alice,march hare,6.666666666666666,8.4,True
+alice,mock turtle,10.0,12.6,True
+alice,mouse,6.666666666666666,8.4,True
+alice,old crab,1.0,1.0,False
+alice,pat,10.0,12.6,True
+alice,pigeon,1.0,1.0,False
+alice,queen of hearts,8.0,10.1,True
+alice,rose painting card five,20.0,25.3,True
+alice,rose painting card seven,20.0,25.3,True
+alice,rose painting card two,20.0,25.3,True
+alice,sister,1.0,1.0,False
+alice,smoking caterpillar,1.0,1.0,False
+alice,ten soldiers,1.0,1.0,False
+alice,white rabbit,8.75,11.1,True
+alice,young crab,1.0,1.0,False
+pig baby,cheshire cat,5.0,6.3,True
+pig baby,duchess,10.0,12.6,True
+bill the lizard,pat,10.0,12.6,True
+bill the lizard,white rabbit,10.0,12.6,True
+canary,dodo,1.0,1.0,False
+canary,duck,1.0,1.0,False
+canary,eaglet,1.0,1.0,False
+canary,lory,1.0,1.0,False
+canary,magpie,1.0,1.0,False
+canary,mouse,1.0,1.0,False
+canary,old crab,1.0,1.0,False
+canary,young crab,1.0,1.0,False
+cheshire cat,executor,10.0,12.6,True
+cheshire cat,king of hearts,10.0,12.6,True
+cheshire cat,queen of hearts,10.0,12.6,True
+cheshire cat,ten soldiers,1.0,1.0,False
+cheshire cat,white rabbit,10.0,12.6,True
+cheshire cat,duchess,10.0,12.6,True
+dodo,duck,5.0,6.3,True
+dodo,eaglet,5.0,6.3,True
+dodo,lory,5.0,6.3,True
+dodo,magpie,1.0,1.0,False
+dodo,mouse,5.0,6.3,True
+dodo,old crab,1.0,1.0,False
+dodo,young crab,1.0,1.0,False
+dormouse,duchess's cook,1.0,1.0,False
+dormouse,hatter,1.0,1.0,False
+dormouse,jurors,1.0,1.0,False
+dormouse,king of hearts,1.0,1.0,False
+dormouse,march hare,3.333333333333333,4.2,True
+dormouse,queen of hearts,1.0,1.0,False
+dormouse,white rabbit,1.0,1.0,False
+duchess,queen of hearts,30.0,37.9,True
+duchess's cook,hatter,1.0,1.0,False
+duchess's cook,jurors,1.0,1.0,False
+duchess's cook,king of hearts,1.0,1.0,False
+duchess's cook,march hare,1.0,1.0,False
+duchess's cook,queen of hearts,1.0,1.0,False
+duchess's cook,white rabbit,1.0,1.0,False
+duck,eaglet,5.0,6.3,True
+duck,lory,5.0,6.3,True
+duck,magpie,1.0,1.0,False
+duck,mouse,5.0,6.3,True
+duck,old crab,1.0,1.0,False
+duck,young crab,1.0,1.0,False
+eaglet,lory,5.0,6.3,True
+eaglet,magpie,1.0,1.0,False
+eaglet,mouse,5.0,6.3,True
+eaglet,old crab,1.0,1.0,False
+eaglet,young crab,1.0,1.0,False
+executor,king of hearts,10.0,12.6,True
+executor,queen of hearts,10.0,12.6,True
+executor,ten soldiers,1.0,1.0,False
+executor,white rabbit,10.0,12.6,True
+fish the footman,frog the footman,10.0,12.6,True
+gryphon,mock turtle,10.0,12.6,True
+hatter,jurors,1.0,1.0,False
+hatter,king of hearts,1.0,1.0,False
+hatter,march hare,1.0,1.0,False
+hatter,queen of hearts,1.0,1.0,False
+hatter,white rabbit,1.0,1.0,False
+jurors,king of hearts,1.0,1.0,False
+jurors,march hare,1.0,1.0,False
+jurors,queen of hearts,1.0,1.0,False
+jurors,white rabbit,1.0,1.0,False
+king of hearts,knave of hearts,20.0,25.3,True
+king of hearts,march hare,10.0,12.6,True
+king of hearts,queen of hearts,10.0,12.6,True
+king of hearts,ten soldiers,1.0,1.0,False
+king of hearts,white rabbit,10.0,12.6,True
+knave of hearts,queen of hearts,20.0,25.3,True
+knave of hearts,white rabbit,20.0,25.3,True
+lory,magpie,1.0,1.0,False
+lory,mouse,5.0,6.3,True
+lory,old crab,1.0,1.0,False
+lory,young crab,1.0,1.0,False
+magpie,mouse,1.0,1.0,False
+magpie,old crab,1.0,1.0,False
+magpie,young crab,1.0,1.0,False
+march hare,queen of hearts,10.0,12.6,True
+march hare,white rabbit,10.0,12.6,True
+mouse,old crab,1.0,1.0,False
+mouse,young crab,1.0,1.0,False
+old crab,young crab,1.0,1.0,False
+pat,white rabbit,10.0,12.6,True
+queen of hearts,rose painting card five,10.0,12.6,True
+queen of hearts,rose painting card seven,10.0,12.6,True
+queen of hearts,rose painting card two,10.0,12.6,True
+queen of hearts,ten soldiers,1.0,1.0,False
+queen of hearts,white rabbit,10.0,12.6,True
+rose painting card five,rose painting card seven,20.0,25.3,True
+rose painting card five,rose painting card two,20.0,25.3,True
+rose painting card seven,rose painting card two,20.0,25.3,True
+ten soldiers,white rabbit,1.0,1.0,False

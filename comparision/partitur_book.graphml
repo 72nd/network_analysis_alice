@@ -1,0 +1,692 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="connection" attr.type="boolean"/>
+<key id="d1" for="edge" attr.name="weight_normalized" attr.type="double"/>
+<key id="d0" for="edge" attr.name="weight" attr.type="double"/>
+<graph edgedefault="undirected"><node id="alice"/>
+<node id="pig baby"/>
+<node id="bill the lizard"/>
+<node id="canary"/>
+<node id="cheshire cat"/>
+<node id="dodo"/>
+<node id="dormouse"/>
+<node id="duchess"/>
+<node id="duchess's cook"/>
+<node id="duck"/>
+<node id="eaglet"/>
+<node id="executor"/>
+<node id="fish the footman"/>
+<node id="frog the footman"/>
+<node id="giant puppy"/>
+<node id="gryphon"/>
+<node id="hatter"/>
+<node id="jurors"/>
+<node id="king of hearts"/>
+<node id="knave of hearts"/>
+<node id="lory"/>
+<node id="magpie"/>
+<node id="march hare"/>
+<node id="mock turtle"/>
+<node id="mouse"/>
+<node id="old crab"/>
+<node id="pat"/>
+<node id="pigeon"/>
+<node id="queen of hearts"/>
+<node id="rose painting card five"/>
+<node id="rose painting card seven"/>
+<node id="rose painting card two"/>
+<node id="sister"/>
+<node id="smoking caterpillar"/>
+<node id="ten soldiers"/>
+<node id="white rabbit"/>
+<node id="young crab"/>
+<edge source="alice" target="pig baby">
+  <data key="d0">5.0</data>
+  <data key="d1">7.0</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="alice" target="bill the lizard">
+  <data key="d0">10.0</data>
+  <data key="d1">13.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="alice" target="canary">
+  <data key="d0">5.0</data>
+  <data key="d1">7.0</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="alice" target="cheshire cat">
+  <data key="d0">5.0</data>
+  <data key="d1">7.0</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="alice" target="dodo">
+  <data key="d0">5.0</data>
+  <data key="d1">7.0</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="alice" target="dormouse">
+  <data key="d0">6.666666666666666</data>
+  <data key="d1">9.3</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="alice" target="duchess">
+  <data key="d0">10.0</data>
+  <data key="d1">13.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="alice" target="duchess's cook">
+  <data key="d0">10.0</data>
+  <data key="d1">13.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="alice" target="duck">
+  <data key="d0">5.0</data>
+  <data key="d1">7.0</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="alice" target="eaglet">
+  <data key="d0">5.0</data>
+  <data key="d1">7.0</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="alice" target="executor">
+  <data key="d0">10.0</data>
+  <data key="d1">13.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="alice" target="fish the footman">
+  <data key="d0">10.0</data>
+  <data key="d1">13.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="alice" target="frog the footman">
+  <data key="d0">10.0</data>
+  <data key="d1">13.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="alice" target="giant puppy">
+  <data key="d0">10.0</data>
+  <data key="d1">13.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="alice" target="gryphon">
+  <data key="d0">20.0</data>
+  <data key="d1">27.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="alice" target="hatter">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="alice" target="jurors">
+  <data key="d0">10.0</data>
+  <data key="d1">13.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="alice" target="king of hearts">
+  <data key="d0">10.0</data>
+  <data key="d1">13.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="alice" target="knave of hearts">
+  <data key="d0">10.0</data>
+  <data key="d1">13.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="alice" target="lory">
+  <data key="d0">5.0</data>
+  <data key="d1">7.0</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="alice" target="magpie">
+  <data key="d0">5.0</data>
+  <data key="d1">7.0</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="alice" target="march hare">
+  <data key="d0">6.666666666666666</data>
+  <data key="d1">9.3</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="alice" target="mock turtle">
+  <data key="d0">20.0</data>
+  <data key="d1">27.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="alice" target="mouse">
+  <data key="d0">6.666666666666666</data>
+  <data key="d1">9.3</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="alice" target="old crab">
+  <data key="d0">5.0</data>
+  <data key="d1">7.0</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="alice" target="pat">
+  <data key="d0">10.0</data>
+  <data key="d1">13.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="alice" target="pigeon">
+  <data key="d0">10.0</data>
+  <data key="d1">13.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="alice" target="queen of hearts">
+  <data key="d0">8.0</data>
+  <data key="d1">11.1</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="alice" target="rose painting card five">
+  <data key="d0">10.0</data>
+  <data key="d1">13.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="alice" target="rose painting card seven">
+  <data key="d0">10.0</data>
+  <data key="d1">13.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="alice" target="rose painting card two">
+  <data key="d0">10.0</data>
+  <data key="d1">13.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="alice" target="sister">
+  <data key="d0">10.0</data>
+  <data key="d1">13.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="alice" target="smoking caterpillar">
+  <data key="d0">10.0</data>
+  <data key="d1">13.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="alice" target="ten soldiers">
+  <data key="d0">10.0</data>
+  <data key="d1">13.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="alice" target="white rabbit">
+  <data key="d0">7.5</data>
+  <data key="d1">10.5</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="alice" target="young crab">
+  <data key="d0">5.0</data>
+  <data key="d1">7.0</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="pig baby" target="cheshire cat">
+  <data key="d0">5.0</data>
+  <data key="d1">7.0</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="pig baby" target="duchess">
+  <data key="d0">10.0</data>
+  <data key="d1">13.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="bill the lizard" target="pat">
+  <data key="d0">10.0</data>
+  <data key="d1">13.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="bill the lizard" target="white rabbit">
+  <data key="d0">10.0</data>
+  <data key="d1">13.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="canary" target="dodo">
+  <data key="d0">5.0</data>
+  <data key="d1">7.0</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="canary" target="duck">
+  <data key="d0">5.0</data>
+  <data key="d1">7.0</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="canary" target="eaglet">
+  <data key="d0">5.0</data>
+  <data key="d1">7.0</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="canary" target="lory">
+  <data key="d0">5.0</data>
+  <data key="d1">7.0</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="canary" target="magpie">
+  <data key="d0">5.0</data>
+  <data key="d1">7.0</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="canary" target="mouse">
+  <data key="d0">5.0</data>
+  <data key="d1">7.0</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="canary" target="old crab">
+  <data key="d0">5.0</data>
+  <data key="d1">7.0</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="canary" target="young crab">
+  <data key="d0">5.0</data>
+  <data key="d1">7.0</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="cheshire cat" target="executor">
+  <data key="d0">10.0</data>
+  <data key="d1">13.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="cheshire cat" target="king of hearts">
+  <data key="d0">10.0</data>
+  <data key="d1">13.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="cheshire cat" target="queen of hearts">
+  <data key="d0">10.0</data>
+  <data key="d1">13.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="cheshire cat" target="ten soldiers">
+  <data key="d0">10.0</data>
+  <data key="d1">13.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="cheshire cat" target="white rabbit">
+  <data key="d0">10.0</data>
+  <data key="d1">13.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="cheshire cat" target="duchess">
+  <data key="d0">10.0</data>
+  <data key="d1">13.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="dodo" target="duck">
+  <data key="d0">5.0</data>
+  <data key="d1">7.0</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="dodo" target="eaglet">
+  <data key="d0">5.0</data>
+  <data key="d1">7.0</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="dodo" target="lory">
+  <data key="d0">5.0</data>
+  <data key="d1">7.0</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="dodo" target="magpie">
+  <data key="d0">5.0</data>
+  <data key="d1">7.0</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="dodo" target="mouse">
+  <data key="d0">5.0</data>
+  <data key="d1">7.0</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="dodo" target="old crab">
+  <data key="d0">5.0</data>
+  <data key="d1">7.0</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="dodo" target="young crab">
+  <data key="d0">5.0</data>
+  <data key="d1">7.0</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="dormouse" target="duchess's cook">
+  <data key="d0">10.0</data>
+  <data key="d1">13.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="dormouse" target="hatter">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="dormouse" target="jurors">
+  <data key="d0">10.0</data>
+  <data key="d1">13.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="dormouse" target="king of hearts">
+  <data key="d0">10.0</data>
+  <data key="d1">13.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="dormouse" target="march hare">
+  <data key="d0">6.666666666666666</data>
+  <data key="d1">9.3</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="dormouse" target="queen of hearts">
+  <data key="d0">10.0</data>
+  <data key="d1">13.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="dormouse" target="white rabbit">
+  <data key="d0">10.0</data>
+  <data key="d1">13.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="duchess" target="queen of hearts">
+  <data key="d0">10.0</data>
+  <data key="d1">13.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="duchess's cook" target="hatter">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="duchess's cook" target="jurors">
+  <data key="d0">10.0</data>
+  <data key="d1">13.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="duchess's cook" target="king of hearts">
+  <data key="d0">10.0</data>
+  <data key="d1">13.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="duchess's cook" target="march hare">
+  <data key="d0">10.0</data>
+  <data key="d1">13.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="duchess's cook" target="queen of hearts">
+  <data key="d0">10.0</data>
+  <data key="d1">13.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="duchess's cook" target="white rabbit">
+  <data key="d0">10.0</data>
+  <data key="d1">13.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="duck" target="eaglet">
+  <data key="d0">5.0</data>
+  <data key="d1">7.0</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="duck" target="lory">
+  <data key="d0">5.0</data>
+  <data key="d1">7.0</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="duck" target="magpie">
+  <data key="d0">5.0</data>
+  <data key="d1">7.0</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="duck" target="mouse">
+  <data key="d0">5.0</data>
+  <data key="d1">7.0</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="duck" target="old crab">
+  <data key="d0">5.0</data>
+  <data key="d1">7.0</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="duck" target="young crab">
+  <data key="d0">5.0</data>
+  <data key="d1">7.0</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="eaglet" target="lory">
+  <data key="d0">5.0</data>
+  <data key="d1">7.0</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="eaglet" target="magpie">
+  <data key="d0">5.0</data>
+  <data key="d1">7.0</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="eaglet" target="mouse">
+  <data key="d0">5.0</data>
+  <data key="d1">7.0</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="eaglet" target="old crab">
+  <data key="d0">5.0</data>
+  <data key="d1">7.0</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="eaglet" target="young crab">
+  <data key="d0">5.0</data>
+  <data key="d1">7.0</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="executor" target="king of hearts">
+  <data key="d0">10.0</data>
+  <data key="d1">13.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="executor" target="queen of hearts">
+  <data key="d0">10.0</data>
+  <data key="d1">13.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="executor" target="ten soldiers">
+  <data key="d0">10.0</data>
+  <data key="d1">13.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="executor" target="white rabbit">
+  <data key="d0">10.0</data>
+  <data key="d1">13.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="fish the footman" target="frog the footman">
+  <data key="d0">10.0</data>
+  <data key="d1">13.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="gryphon" target="mock turtle">
+  <data key="d0">20.0</data>
+  <data key="d1">27.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="hatter" target="jurors">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="hatter" target="king of hearts">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="hatter" target="march hare">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="hatter" target="queen of hearts">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="hatter" target="white rabbit">
+  <data key="d0">1.0</data>
+  <data key="d1">1.0</data>
+  <data key="d2">False</data>
+</edge>
+<edge source="jurors" target="king of hearts">
+  <data key="d0">10.0</data>
+  <data key="d1">13.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="jurors" target="march hare">
+  <data key="d0">10.0</data>
+  <data key="d1">13.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="jurors" target="queen of hearts">
+  <data key="d0">10.0</data>
+  <data key="d1">13.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="jurors" target="white rabbit">
+  <data key="d0">10.0</data>
+  <data key="d1">13.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="king of hearts" target="knave of hearts">
+  <data key="d0">10.0</data>
+  <data key="d1">13.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="king of hearts" target="march hare">
+  <data key="d0">10.0</data>
+  <data key="d1">13.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="king of hearts" target="queen of hearts">
+  <data key="d0">10.0</data>
+  <data key="d1">13.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="king of hearts" target="ten soldiers">
+  <data key="d0">10.0</data>
+  <data key="d1">13.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="king of hearts" target="white rabbit">
+  <data key="d0">10.0</data>
+  <data key="d1">13.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="knave of hearts" target="queen of hearts">
+  <data key="d0">10.0</data>
+  <data key="d1">13.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="knave of hearts" target="white rabbit">
+  <data key="d0">10.0</data>
+  <data key="d1">13.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="lory" target="magpie">
+  <data key="d0">5.0</data>
+  <data key="d1">7.0</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="lory" target="mouse">
+  <data key="d0">5.0</data>
+  <data key="d1">7.0</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="lory" target="old crab">
+  <data key="d0">5.0</data>
+  <data key="d1">7.0</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="lory" target="young crab">
+  <data key="d0">5.0</data>
+  <data key="d1">7.0</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="magpie" target="mouse">
+  <data key="d0">5.0</data>
+  <data key="d1">7.0</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="magpie" target="old crab">
+  <data key="d0">5.0</data>
+  <data key="d1">7.0</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="magpie" target="young crab">
+  <data key="d0">5.0</data>
+  <data key="d1">7.0</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="march hare" target="queen of hearts">
+  <data key="d0">10.0</data>
+  <data key="d1">13.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="march hare" target="white rabbit">
+  <data key="d0">10.0</data>
+  <data key="d1">13.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="mouse" target="old crab">
+  <data key="d0">5.0</data>
+  <data key="d1">7.0</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="mouse" target="young crab">
+  <data key="d0">5.0</data>
+  <data key="d1">7.0</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="old crab" target="young crab">
+  <data key="d0">5.0</data>
+  <data key="d1">7.0</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="pat" target="white rabbit">
+  <data key="d0">10.0</data>
+  <data key="d1">13.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="queen of hearts" target="rose painting card five">
+  <data key="d0">10.0</data>
+  <data key="d1">13.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="queen of hearts" target="rose painting card seven">
+  <data key="d0">10.0</data>
+  <data key="d1">13.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="queen of hearts" target="rose painting card two">
+  <data key="d0">10.0</data>
+  <data key="d1">13.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="queen of hearts" target="ten soldiers">
+  <data key="d0">10.0</data>
+  <data key="d1">13.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="queen of hearts" target="white rabbit">
+  <data key="d0">10.0</data>
+  <data key="d1">13.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="rose painting card five" target="rose painting card seven">
+  <data key="d0">10.0</data>
+  <data key="d1">13.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="rose painting card five" target="rose painting card two">
+  <data key="d0">10.0</data>
+  <data key="d1">13.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="rose painting card seven" target="rose painting card two">
+  <data key="d0">10.0</data>
+  <data key="d1">13.9</data>
+  <data key="d2">True</data>
+</edge>
+<edge source="ten soldiers" target="white rabbit">
+  <data key="d0">10.0</data>
+  <data key="d1">13.9</data>
+  <data key="d2">True</data>
+</edge>
+</graph></graphml>
